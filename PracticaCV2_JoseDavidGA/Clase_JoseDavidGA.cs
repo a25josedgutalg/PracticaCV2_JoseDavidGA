@@ -8,5 +8,12 @@ namespace PracticaCV2_JoseDavidGA
 {
     internal class Clase_JoseDavidGA
     {
+        // CONSTANTES
+
+        // VARIABLES
+
+        // METODOS PRIVADOS / PUBLICOS
+
+        // CONSTRUCTORES
     }
 }
